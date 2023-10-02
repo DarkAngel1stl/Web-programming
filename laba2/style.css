@@ -1,0 +1,50 @@
+.form-group{
+    margin-bottom: 10px;
+}
+
+.form-label{
+    display: block;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+    margin: 0 auto;
+    max-width: 700px;
+    font-size: 25px;
+    background-color: rgba(31, 31, 31, 0.897);
+    border-radius: 10px;
+}
+
+input, textarea, select{
+    font-size: inherit;
+}
+
+.btn{
+    display: block;
+    height: 40px;
+    width: 150px;
+    margin: 0 auto;
+    background-color: aqua;
+    border: 1px solid #060e7c;
+    border-radius: 5px;
+    font-size: 20px;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+body 
+{
+  font-size: 14px;
+  line-height: 22px;
+  width: auto;
+  font-family: 'Noto Serif', serif;;
+  color: #ffffff;
+  background: #000000;
+  background-image: url(bg.jpg);
+}
